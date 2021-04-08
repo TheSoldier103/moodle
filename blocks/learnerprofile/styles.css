@@ -1,0 +1,16 @@
+.block_learnerprofile img.profilepicture {
+    height: 100px;
+    width: 100px;
+}
+
+.block_learnerprofile .learnerprofileitem.fullname {
+    font-size: 2.5em;
+    font-weight: bold;
+    font-display: green;
+}
+
+.block_learnerprofile .learnerprofileitem.edit {
+    text-align: right;
+    font-weight: bold;
+    }
+
